@@ -2,10 +2,9 @@
 
 **Background Info:**
 
-- You are working as a Data Analyst at Accenture.
-- You work within a larger team, where each member has a different role and level of responsibility.
-- Your team has been assigned a new project for a client called **Social Buzz.**
-- You’re hoping for a promotion at work, and this is an exciting opportunity for you to showcase your data analysis and visualization skills.
+- I am a Data Analyst at Accenture that works within a larger team, where each member has a different role and level of responsibility.
+The team has been assigned a new project for a client called **Social Buzz.**
+
 
 **Project Brief:**
 
